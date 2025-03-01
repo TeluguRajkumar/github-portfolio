@@ -1,20 +1,9 @@
-# Dev Portfolio
+# Rajkumar Telugu Portfolio
 
-🚀 **[Dev Portfolio V2 has arrived. Meet Devfolio, a modern portfolio + blog template built with GatsbyJS and TailwindCSS](https://github.com/RyanFitzgerald/devfolio)** 🚀
+Welcome to my portfolio! I'm Rajkumar, a Senior Data Scientist with expertise in AI/ML Engineering, NLP, Generative AI, and Data Analysis. Here, you'll find projects showcasing my skills in Python, TensorFlow, PyTorch, OpenAI models, SQL, Pandas, and more.
 
-This repo contains an easy-to-customize personal dev portfolio template that was created with Sass and JavaScript. It is lightweight and fully responsive, as well as comes with the Bootstrap grid system and loaded with Font Awesome. The site is static and comes production ready if you just want to add your information and go. Alternatively, you can edit styles, colours, and scripts fairly easily. The site was built as modular as possible to make it easy to shift around styles and content.
 
-To view a live demo, [click here](https://ryanfitzgerald.github.io/devportfolio/).
 
-Looking for a blog template? Checkout [DevBlog](https://github.com/RyanFitzgerald/devblog).
-
-## Features
-
-* Gulp ready (compiles Sass and minifies JS)
-* Sass ready with lots of commenting
-* Fully responsive
-* Comes with Bootstrap grid system
-* Easy colour changes can be done through simple variable edits
 
 ## Contents
 
@@ -128,7 +117,7 @@ The about section contains a quick about blurb that can be edited by changing th
 
 ### Experience Section
 
-The experience section creates a vertical timeline with all your relevant experience. The code for the timeline creation can be found within `js/scripts.js` and is an adaptation of [RyanFitzgerald/vertical-timeline](https://github.com/RyanFitzgerald/vertical-timeline).
+The experience section creates a vertical timeline with all your relevant experience. The code for the timeline creation can be found within `js/scripts.js` and is an adaptation of (https://github.com/TeluguRajkumar).
 
 The default format is as follows:
 
