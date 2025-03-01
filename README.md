@@ -3,6 +3,14 @@
 Welcome to my portfolio! I'm Rajkumar, a Senior Data Scientist with expertise in AI/ML Engineering, NLP, Generative AI, and Data Analysis. Here, you'll find projects showcasing my skills in Python, TensorFlow, PyTorch, OpenAI models, SQL, Pandas, and more.
 
 
+## Features
+Gulp ready (compiles Sass and minifies JS)
+Sass ready with lots of commenting
+Fully responsive
+Comes with Bootstrap grid system
+Easy colour changes can be done through simple variable edits
+
+
 
 
 ## Contents
